@@ -16,7 +16,7 @@ require("firebase/firestore");
 
 // // firebase intialize
 var firebaseConfig = {
-  apiKey: "AIzaSyBzruTO6rkxZAMLxHGWajdzxXEudjuP838",
+  apiKey: process.env.VUE_APP_KEY_FIREBASE,
   authDomain: "mit-my-it-team.firebaseapp.com",
   databaseURL: "https://mit-my-it-team.firebaseio.com",
   projectId: "mit-my-it-team",
