@@ -4,4 +4,4 @@ backend/.metadata/
 backend/SNSspring/log/log.log
 backend/SNSspring/**.log
 /.metadata/
-I3B306T.pem
+aws/I3B306T.pem
